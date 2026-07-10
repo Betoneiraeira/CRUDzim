@@ -15,3 +15,6 @@ O aluno cadastra suas informações como nome, email e idade. Essas informaçõe
 
 ## ⚠️ Atenção
 **Todas as informações são fictícias**, este projeto foi feito apenas para fins de estudos e pode sofrer mudanças extremas futuramente.
+
+## 📸 Imagem do projeto
+<img width="1320" height="846" alt="image" src="https://github.com/user-attachments/assets/4a451f6f-6c67-4900-aa34-c74f8fd294eb" />
